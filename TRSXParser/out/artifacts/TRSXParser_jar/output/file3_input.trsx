@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project xmlns:nuance="https://developer.nuance.com/mix/nlu/trsx" xml:lang="eng-USA" nuance:version="2.4">
+<samples>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> last </annotation> meeting on teams </sample>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> next </annotation> meeting on teams </sample>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> first </annotation> meeting on teams </sample>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> previous </annotation> meeting on teams </sample>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> third </annotation> meeting on teams </sample>
+<sample intentref="custom:::PROD_Calendar_Search" count="1"> when do i have my <annotation conceptref="custom:::ListPosition"> current </annotation> meeting on teams </sample>
+</samples>
+</project>
